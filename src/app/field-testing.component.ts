@@ -19,8 +19,8 @@ import { Component } from '@angular/core';
         <div class="grid gap-8 lg:grid-cols-[1.2fr_0.8fr] items-center">
           <div>
             <div class="overflow-hidden rounded-3xl shadow-xl border border-gray-200 bg-black">
-              <video controls class="w-full h-auto block" src="file:///c:/Users/bhara/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/156432CB993F28530B61C1BB48C54400F421F8FC/transfers/2026-25/WhatsApp%20Video%202026-06-21%20at%207.44.24%20PM.mp4">
-                Your browser does not support the video tag. You can <a href="file:///c:/Users/bhara/AppData/Local/Packages/5319275A.WhatsAppDesktop_cv1g1gvanyjgm/LocalState/sessions/156432CB993F28530B61C1BB48C54400F421F8FC/transfers/2026-25/WhatsApp%20Video%202026-06-21%20at%207.44.24%20PM.mp4" target="_blank" rel="noreferrer">download and watch the field testing video</a>.
+              <video controls preload="metadata" class="w-full h-auto block" src="/field-testing-video.mp4">
+                Your browser does not support the video tag. You can <a href="/field-testing-video.mp4" target="_blank" rel="noreferrer">download and watch the field testing video</a>.
               </video>
             </div>
           </div>
