@@ -76,36 +76,38 @@ import { MatIconModule } from '@angular/material/icon';
           <h3 class="text-2xl font-bold text-gray-900 mb-8 font-display text-center">Revenue Streams</h3>
           
           <div class="grid grid-cols-1 md:grid-cols-2 gap-8">
-            <!-- Type 1 -->
+            <!-- Method 1 -->
             <div class="border-2 border-gray-100 rounded-2xl p-8 hover:border-emerald-200 transition-colors relative">
-              <div class="absolute top-0 right-0 bg-gray-100 text-gray-600 text-xs font-bold px-3 py-1 rounded-bl-lg rounded-tr-xl uppercase tracking-wider">Type 1</div>
-              <h4 class="text-xl font-bold text-gray-900 mb-2">One-Time Purchase</h4>
-              <p class="text-gray-500 mb-6 text-sm">Complete hardware and software package with no recurring fees.</p>
-              <div class="text-4xl font-display font-bold text-emerald-600 mb-6">
-                ₹6,000 <span class="text-xl text-gray-400 font-normal">- 8,000</span>
+              <div class="absolute top-0 right-0 bg-gray-100 text-gray-600 text-xs font-bold px-3 py-1 rounded-bl-lg rounded-tr-xl uppercase tracking-wider">Method 1</div>
+              <h4 class="text-xl font-bold text-gray-900 mb-2">One-Time Buy</h4>
+              <p class="text-gray-500 mb-6 text-sm">Single purchase with full ownership of hardware plus the application license.</p>
+              <div class="space-y-3 text-gray-600 text-sm">
+                <div class="flex justify-between items-center border-b border-gray-100 pb-2">
+                  <span>Hardware</span>
+                  <span class="font-mono font-medium text-gray-900">₹10,000</span>
+                </div>
+                <div class="flex justify-between items-center pt-2">
+                  <span>Application</span>
+                  <span class="font-mono font-medium text-gray-900">₹5,000</span>
+                </div>
               </div>
-              <ul class="space-y-3 text-gray-600 text-sm">
-                <li class="flex items-center gap-2"><mat-icon class="text-emerald-500 text-sm">done</mat-icon> Full Fermentation Tank</li>
-                <li class="flex items-center gap-2"><mat-icon class="text-emerald-500 text-sm">done</mat-icon> Complete Analysis Kit</li>
-                <li class="flex items-center gap-2"><mat-icon class="text-emerald-500 text-sm">done</mat-icon> Lifetime Dashboard Access</li>
-              </ul>
             </div>
 
-            <!-- Type 2 -->
+            <!-- Method 2 -->
             <div class="border-2 border-emerald-500 rounded-2xl p-8 relative shadow-md shadow-emerald-100">
-              <div class="absolute top-0 right-0 bg-emerald-500 text-white text-xs font-bold px-3 py-1 rounded-bl-lg rounded-tr-xl uppercase tracking-wider">Type 2 (Popular)</div>
-              <h4 class="text-xl font-bold text-gray-900 mb-2">Subscription Based</h4>
-              <p class="text-gray-500 mb-6 text-sm">Hardware kit provided for free, pay only for the software platform.</p>
-              <div class="text-4xl font-display font-bold text-emerald-600 mb-2">
-                ₹399 <span class="text-lg text-gray-500 font-normal">/ month</span>
+              <div class="absolute top-0 right-0 bg-emerald-500 text-white text-xs font-bold px-3 py-1 rounded-bl-lg rounded-tr-xl uppercase tracking-wider">Method 2</div>
+              <h4 class="text-xl font-bold text-gray-900 mb-2">Deposit + Subscription</h4>
+              <p class="text-gray-500 mb-6 text-sm">Low entry cost with an ongoing application subscription for continued updates and support.</p>
+              <div class="space-y-3 text-gray-600 text-sm">
+                <div class="flex justify-between items-center border-b border-gray-100 pb-2">
+                  <span>Deposit</span>
+                  <span class="font-mono font-medium text-gray-900">₹7,000</span>
+                </div>
+                <div class="flex justify-between items-center pt-2">
+                  <span>Application subscription</span>
+                  <span class="font-mono font-medium text-gray-900">₹199 / month</span>
+                </div>
               </div>
-              <p class="text-xs text-emerald-600 font-medium mb-6 bg-emerald-50 inline-block px-2 py-1 rounded">2 Years Lock-in Period</p>
-              <ul class="space-y-3 text-gray-600 text-sm">
-                <li class="flex items-center gap-2"><mat-icon class="text-emerald-500 text-sm">done</mat-icon> <span class="font-bold text-gray-900">Free</span> Hardware Kit</li>
-                <li class="flex items-center gap-2"><mat-icon class="text-emerald-500 text-sm">done</mat-icon> Premium AI Analysis Features</li>
-                <li class="flex items-center gap-2"><mat-icon class="text-emerald-500 text-sm">done</mat-icon> Continuous System Support</li>
-                <li class="flex items-center gap-2"><mat-icon class="text-emerald-500 text-sm">done</mat-icon> ₹4,800/yr (₹9,800 approx total)</li>
-              </ul>
             </div>
           </div>
         </div>
