@@ -7,6 +7,7 @@ import { HardwareComponent } from './hardware.component';
 import { FeaturesComponent } from './features.component';
 import { TechStackComponent } from './tech-stack.component';
 import { PrototypeComponent } from './prototype.component';
+import { FieldTestingComponent } from './field-testing.component';
 import { BusinessModelComponent } from './business-model.component';
 import { AchievementsComponent } from './achievements.component';
 import { ImpactFutureComponent } from './impact-future.component';
@@ -25,6 +26,7 @@ import { ReactFeatureComponent } from './react-feature.component';
     FeaturesComponent,
     TechStackComponent,
     PrototypeComponent,
+    FieldTestingComponent,
     BusinessModelComponent,
     AchievementsComponent,
     ImpactFutureComponent,
