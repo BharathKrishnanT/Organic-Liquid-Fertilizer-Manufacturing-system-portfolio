@@ -1,9 +1,5 @@
 {
-  "name": "Remix: AgriSense: Smart Soil \u0026 Tank Monitor",
-  "description": "An interactive dashboard for South Indian agriculture connecting to ESP32 sensors for NPK and fertilizer tank monitoring, featuring an intelligent ratio calculator and crop guides.",
-  "requestFramePermissions": [
-    "serial",
-    "camera",
-    "geolocation"
-  ]
+  "name": "Smart Organic Liquid Fertilizer System Portfolio",
+  "description": "A portfolio website showcasing an IoT-based precision agriculture platform for soil monitoring, fertilizer management, and AI crop recommendations.",
+  "requestFramePermissions": []
 }
