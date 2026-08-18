@@ -100,21 +100,21 @@ import { Component } from '@angular/core';
 
           <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
             <article class="bg-white rounded-2xl overflow-hidden border border-emerald-100 shadow-sm">
-              <div class="h-64 bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1553413077-190dd305871c?auto=format&fit=crop&w=900&q=80');"></div>
+              <div class="h-64 bg-cover bg-center" style="background-image: url('/achievements/achievement-1.jpeg');"></div>
               <div class="p-5">
                 <p class="text-gray-700 text-sm leading-6">NPK sensor soil testing measures available nitrogen, phosphorus, and potassium in real time for precise nutrient adjustment.</p>
               </div>
             </article>
 
             <article class="bg-white rounded-2xl overflow-hidden border border-emerald-100 shadow-sm">
-              <div class="h-64 bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=900&q=80');"></div>
+              <div class="h-64 bg-cover bg-center" style="background-image: url('/achievements/achievement-2.jpeg');"></div>
               <div class="p-5">
                 <p class="text-gray-700 text-sm leading-6">Soil collection from the field helps confirm texture, moisture, and nutrient imbalance before the process begins.</p>
               </div>
             </article>
 
             <article class="bg-white rounded-2xl overflow-hidden border border-emerald-100 shadow-sm">
-              <div class="h-64 bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=900&q=80');"></div>
+              <div class="h-64 bg-cover bg-center" style="background-image: url('/achievements/achievement-3.jpeg');"></div>
               <div class="p-5">
                 <p class="text-gray-700 text-sm leading-6">Crop analysis checks plant vigor and visible stress signs to ensure the fertilizer strategy matches actual field conditions.</p>
               </div>
@@ -132,21 +132,21 @@ import { Component } from '@angular/core';
 
           <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
             <article class="bg-white rounded-2xl overflow-hidden border border-emerald-100 shadow-sm">
-              <div class="h-64 bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=900&q=80');"></div>
+              <div class="h-64 bg-cover bg-center" style="background-image: url('/achievements/achievement-4.jpeg');"></div>
               <div class="p-5">
                 <p class="text-gray-700 text-sm leading-6">Raw organic biomass is loaded into the fermentation chamber to begin the nutrient breakdown process.</p>
               </div>
             </article>
 
             <article class="bg-white rounded-2xl overflow-hidden border border-emerald-100 shadow-sm">
-              <div class="h-64 bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=900&q=80');"></div>
+              <div class="h-64 bg-cover bg-center" style="background-image: url('/achievements/achievement-5.jpeg');"></div>
               <div class="p-5">
                 <p class="text-gray-700 text-sm leading-6">The process tank converts plant material into a nutrient-rich liquid fertilizer through controlled microbial fermentation.</p>
               </div>
             </article>
 
             <article class="bg-white rounded-2xl overflow-hidden border border-emerald-100 shadow-sm">
-              <div class="h-64 bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1553413077-190dd305871c?auto=format&fit=crop&w=900&q=80');"></div>
+              <div class="h-64 bg-cover bg-center" style="background-image: url('/achievements/achievement-6.jpeg');"></div>
               <div class="p-5">
                 <p class="text-gray-700 text-sm leading-6">The final fermented output is collected and prepared for field application as a sustainable liquid fertilizer.</p>
               </div>
@@ -164,21 +164,21 @@ import { Component } from '@angular/core';
 
           <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
             <article class="bg-white rounded-2xl overflow-hidden border border-emerald-100 shadow-sm">
-              <div class="h-64 bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1466692476868-aef1dfb1e735?auto=format&fit=crop&w=900&q=80');"></div>
+              <div class="h-64 bg-cover bg-center" style="background-image: url('/achievements/achievement-7.jpeg');"></div>
               <div class="p-5">
                 <p class="text-gray-700 text-sm leading-6">Within 10 days, the crop showed stronger green color and healthier leaf growth than the untreated baseline.</p>
               </div>
             </article>
 
             <article class="bg-white rounded-2xl overflow-hidden border border-emerald-100 shadow-sm">
-              <div class="h-64 bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1501004318641-b39e6451bec6?auto=format&fit=crop&w=900&q=80');"></div>
+              <div class="h-64 bg-cover bg-center" style="background-image: url('/achievements/achievement-8.jpeg');"></div>
               <div class="p-5">
                 <p class="text-gray-700 text-sm leading-6">The treated rows displayed denser growth and improved uniformity, indicating a positive nutrient response.</p>
               </div>
             </article>
 
             <article class="bg-white rounded-2xl overflow-hidden border border-emerald-100 shadow-sm">
-              <div class="h-64 bg-cover bg-center" style="background-image: url('https://images.unsplash.com/photo-1553413077-190dd305871c?auto=format&fit=crop&w=900&q=80');"></div>
+              <div class="h-64 bg-cover bg-center" style="background-image: url('/achievements/achievement-9.jpeg');"></div>
               <div class="p-5">
                 <p class="text-gray-700 text-sm leading-6">After ten days, the crop health visibly improved, confirming practical effectiveness of the liquid fertilizer.</p>
               </div>
